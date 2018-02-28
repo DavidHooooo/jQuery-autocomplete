@@ -63,5 +63,5 @@ $('.input-group>input').on('input propertychange',function () {
     })
 })
 ```
-![image](https://github.com/DavidHooooo/autocomplete/blob/master/image/%E6%9C%AA%E5%91%BD%E5%90%8D.png)
+![image](https://github.com/DavidHooooo/jQuery-autocomplete/blob/master/image/%E6%9C%AA%E5%91%BD%E5%90%8D.png)
 
